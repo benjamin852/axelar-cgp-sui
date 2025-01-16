@@ -2,6 +2,7 @@
 name = "AxelarGateway"
 version = "0.1.0"
 edition = "2024"
+published-at = "0x936c1f0714a06fac58edc57bb95276bb0ad1e6ae930e5c232fdfec4a18f65818"
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "mainnet-v1.38.3" }
